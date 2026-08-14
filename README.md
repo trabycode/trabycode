@@ -3,9 +3,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/readme-stats/master/media/cubes.gif" width="30" /> Trabycode | Software & Automation
 ### *Transformamos procesos complejos en soluciones digitales inteligentes.*
 
-[![Sitio Web](https://img.shields.io/badge/Sitio_Web-FF6600?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-sitio-web.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/trabycode)
-
 </div>
 
 ---
